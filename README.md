@@ -10,7 +10,7 @@ The application provides:
 
 ## Demo
 
-**(https://drive.google.com/file/d/1iv9HbMcZbffSOZ1Fd3MvagZd9uO6SMNv/view?usp=sharing)**
+[Watch the Demo Here](https://drive.google.com/file/d/1iv9HbMcZbffSOZ1Fd3MvagZd9uO6SMNv/view?usp=sharing)
 
 ## Setup
 
